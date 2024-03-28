@@ -1,0 +1,56 @@
+.image{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.nassim{
+    border-radius: 50%;
+ 
+    width: 200px;
+    height: 200px;
+}
+.hatim{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.said{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.ilyas{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.t1{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+   
+}
+.t2{
+    margin-left: 20px;
+    color: blue;
+    font-size: 20px;
+
+
+}
+.t3{
+    text-align: end;
+    color: green;
+    font-size: 20px;
+}
+
+.liste{
+    gap: 20px;
+}
+
+
+ul{
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 20px; 
+}
